@@ -8,10 +8,10 @@ If you need my biographical sketch, headshot, or relevant links, please take it 
 
 ### Affiliation universitaire
 
-Titre universitaire : Professeure adjointe sous octroi
-Département : Département de Génétique Humaine
-Faculté : Faculté de médecine et des sciences de la santé
-Institution : Université McGill
+- Titre universitaire : Professeure adjointe sous octroi
+- Département : Département de Génétique Humaine
+- Faculté : Faculté de médecine et des sciences de la santé
+- Institution : Université McGill
 
 ### Bio courte
 
@@ -22,8 +22,8 @@ Claude Bhérer est professeure adjointe sous octroi au Département de génétiq
 
 ### Affiliation
 
-Title : Assistant Professor
-Department : Department of Human Genetics
-Faculty : Faculty of Medicine and Health Sciences
-Institution : McGill University
+- Title : Assistant Professor
+- Department : Department of Human Genetics
+- Faculty : Faculty of Medicine and Health Sciences
+- Institution : McGill University
 
