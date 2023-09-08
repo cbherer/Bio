@@ -27,3 +27,18 @@ Claude Bhérer est professeure adjointe sous octroi au Département de génétiq
 - Faculty : Faculty of Medicine and Health Sciences
 - Institution : McGill University
 
+### Bio - short version
+
+Claude Bhérer, PhD, is Assistant Professor at the Department of Human Genetics at McGill University and researcher within the Canada Excellence Research Chair (CERC) Program in genomic medicine. Prof. Bhérer’s uses population and statistical genetics to learn about human biology, evolution and the genetic basis of diseases and traits. Her work focuses on understanding how evolutionary history shape natural genetic variation in diverse human populations, and how to apply this knowledge to support the discovery and development of genetically-driven therapeutics. 
+
+### Bio - medium version
+
+Claude Bhérer, PhD, is Assistant Professor at the Department of Human Genetics, School of Biomedical Sciences, at the Faculty of Medicine and Health Sciences, McGill University. She also leads a population genomics research group within a mission-oriented multidisciplinary Canada Excellence Research Chair (CERC) program covering all facets of genomic medicine (https://www.genomic-medicine-cerc.online/). Prof. Bhérer is interested in using population and statistical genetics to learn about human biology, evolution and the genetic basis of diseases and traits. Her work focuses on understanding how evolutionary history shape natural genetic variation in diverse human populations, and how to apply this knowledge to support the discovery and development of genetically-driven therapeutics. 
+
+### Bio - longer version
+
+Claude Bhérer, PhD, is an Assistant Professor in the Department of Human Genetics, School of Biomedical Sciences, at the Faculty of Medicine and Health Sciences, McGill University. She also leads a population genomics research group within a mission-oriented multidisciplinary Canada Excellence Research Chair (CERC) program covering all facets of genomic medicine (https://www.genomic-medicine-cerc.online/). Before that, she was a FRQS postdoctoral fellow at the New York Genome Centre and the Albert Einstein College of Medicine and received her PhD from Université de Montréal. Prof. Bhérer’s research in the field of human population genetics addresses questions of broad interest in evolutionary biology, genomic medicine, and biomedical sciences. Her expertise spans population scale computational analysis, data collection to methods development. Her work focuses on understanding how evolutionary history shape natural genetic variation in diverse human populations, and how to apply this knowledge to support the discovery and development of genetically-driven therapeutics.
+
+
+
+
