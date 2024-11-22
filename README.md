@@ -29,7 +29,7 @@ Claude Bhérer est professeure adjointe sous octroi au Département de génétiq
 
 ### Bio - short version
 
-Claude Bhérer, PhD, is Assistant Professor at the Department of Human Genetics at McGill University and researcher within the Canada Excellence Research Chair (CERC) Program in genomic medicine. Prof. Bhérer’s uses population and statistical genetics to learn about human biology, evolution and the genetic basis of diseases and traits. Her work focuses on understanding how evolutionary history shape natural genetic variation in diverse human populations, and how to apply this knowledge to support the discovery and development of genetically-driven therapeutics. 
+Claude Bhérer, PhD, is Assistant Professor at the Department of Human Genetics at McGill University and researcher within the Canada Excellence Research Chair (CERC) Program in Genomic Medicine. Prof. Bhérer’s uses population and statistical genetics to learn about human biology, evolution and the genetic basis of diseases and traits. Her work focuses on understanding how evolutionary history shape natural genetic variation in diverse human populations, and how to apply this knowledge to support the discovery and development of genetically-driven therapeutics. 
 
 ### Bio - medium version
 
